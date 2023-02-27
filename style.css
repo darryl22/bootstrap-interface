@@ -1,0 +1,26 @@
+.box{
+    min-height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+
+.icon-div{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 50px;
+}
+
+.blue{
+    background-color: rgb(0, 183, 255);
+}
+
+.green{
+    background-color: rgb(21, 207, 65);
+}
+
+.purple{
+    background-color: rgb(62, 73, 174);
+}
